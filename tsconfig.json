@@ -1,5 +1,9 @@
 {
   "compilerOptions": {
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "noEmit": true,
+    "isolatedModules": true,
     "target": "ESNext",
     "module": "NodeNext",
     "moduleResolution": "nodenext",
